@@ -1,6 +1,6 @@
+# OMG Community Roadmap Tracker
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/buildOMG/tracker.svg?columns=all)](https://github.com/buildOMG/tracker/projects/1)
 
-# OMG Community Roadmap Tracker
 The roadmap is a living document that records the steps in which we plan to deliver the functionality defined in the OmiseGO [whitepaper](https://cdn.omise.co/omg/whitepaper.pdf).
 
 *Warning!* Milestones more than one release ahead of what we are working on is subject to change.
