@@ -5,17 +5,17 @@ The roadmap is a living document that records the steps in which we plan to deli
 
 *Warning!* Milestones more than one release ahead of what we are working on is subject to change.
 
-## Fuseki (Delivered!)
+## Fuseki (Delivered)
 The Fuseki milestone was achieved in Q1 2018. Fuseki delivered the OmiseGO eWallet repositories, which included a server and mobile SDKs to onboard eWallet providers. Blockchain integration will be included in a later milestone.
 
 The code for the eWallet SDK may be found in [GitHub](https://github.com/omisego/ewallet).
 
-## Sente (In Progress)
+## Sente (Delivered)
 The Sente milestone includes feedback from users of the closed beta and from Fuseki. Notable changes in the eWallet SDK from Fuseki to Sente includes:
 * A re-designed administrative dashboard
 * Transaction request flow (QR codes) to enable peer to peer payments between users
 
-## Honte (Spooned)
+## Honte (Diverted)
 OmiseGO has stopped on the Honte milestone. The repository for Honte may be found [here](https://github.com/omisego/honted). The full design of the blockchain and decentralized exchange on Tendermint may be found [here](https://github.com/omisego/honted/blob/develop/docs/tendermint_blockchain_design.md) and [here](https://github.com/omisego/honted/blob/develop/docs/batch_matching.md) respectively.
 
 ## Tesuji (In Progress)
